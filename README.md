@@ -1,0 +1,2 @@
+# redis_notifylist
+将redis的插入跟expire事件写入list
